@@ -1,6 +1,9 @@
 # Simple Calculator
 
+<img src="calculator.PNG" width=200> 
+
 A minimal and straightforward calculator designed for ease of use and functionality. This calculator performs basic arithmetic operations such as addition, subtraction, multiplication, and division. Also this calculator is well responsive and perfectly fits in any possible device.
+
 
 ## Features
 
